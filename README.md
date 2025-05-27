@@ -6,7 +6,7 @@
 
 Run the dev server:
 
-```shellscript
+```shell
 npm run dev
 ```
 
@@ -14,13 +14,13 @@ npm run dev
 
 First, build your app for production:
 
-```sh
+```shell
 npm run build
 ```
 
 Then run the app in production mode:
 
-```sh
+```shell
 npm start
 ```
 
